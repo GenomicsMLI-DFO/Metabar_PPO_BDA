@@ -1,0 +1,26 @@
+"","sample_id","project","locus","seqdepth_ok","artefact_type","nb_reads_postmetabaR","nb_motus_postmetabaR"
+"432","PPO20_199","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",27,4
+"433","PPO20_200","PPO.KMcGregor.2020","MiFishU",TRUE,"Not artefactual",230377,13
+"435","PPO20_202","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",58,2
+"436","PPO20_203","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",64,1
+"437","PPO20_204","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",35,2
+"440","PPO20_207","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",318,1
+"441","PPO20_209","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",55,1
+"442","PPO20_210","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",59,1
+"443","PPO20_211","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",53,1
+"444","PPO20_212","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",54,1
+"445","PPO20_213","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",57,1
+"446","PPO20_214","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",63,1
+"447","PPO20_215","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",497,1
+"448","PPO20_216","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",384,2
+"450","PPO20_218","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",35,2
+"451","PPO20_219","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",123,2
+"452","PPO20_220","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",67,2
+"453","PPO20_221","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",69,1
+"456","PPO20_224","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",42,1
+"457","PPO20_225","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",57,1
+"459","PPO20_227","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",24,1
+"460","PPO20_228","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",94,2
+"461","PPO20_229","PPO.KMcGregor.2020","MiFishU",TRUE,"Not artefactual",172098,13
+"463","PPO20_231","PPO.KMcGregor.2020","MiFishU",TRUE,"Not artefactual",546184,29
+"464","PPO20_232","PPO.KMcGregor.2020","MiFishU",FALSE,"Low sequencing depth",85,3

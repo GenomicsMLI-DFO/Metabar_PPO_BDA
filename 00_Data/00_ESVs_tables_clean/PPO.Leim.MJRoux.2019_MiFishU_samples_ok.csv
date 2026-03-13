@@ -1,0 +1,9 @@
+"","sample_id","project","locus","seqdepth_ok","artefact_type","nb_reads_postmetabaR","nb_motus_postmetabaR"
+"16","PPO20_055","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",10,1
+"18","PPO20_058","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",19,1
+"22","PPO20_063","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",60,2
+"24","PPO20_066","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",52,3
+"25","PPO20_067","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",18,1
+"26","PPO20_068","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",41,2
+"28","PPO20_071","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",909,2
+"31","PPO20_075","PPO.Leim.MJRoux.2019","MiFishU",FALSE,"Low sequencing depth",108,2

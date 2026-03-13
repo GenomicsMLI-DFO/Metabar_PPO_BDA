@@ -1,0 +1,15 @@
+"","sample_id","project","locus","seqdepth_ok","artefact_type","nb_reads_postmetabaR","nb_motus_postmetabaR"
+"1","PPO20_035","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",789329,84
+"3","PPO20_037","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",702645,59
+"4","PPO20_039","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",595195,39
+"5","PPO20_040","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",939115,22
+"6","PPO20_041","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",491452,40
+"7","PPO20_043","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",815606,66
+"8","PPO20_044","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",649902,42
+"9","PPO20_045","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",697144,65
+"10","PPO20_047","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",706834,64
+"11","PPO20_048","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",615051,61
+"12","PPO20_049","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",3882,8
+"13","PPO20_051","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",699067,44
+"14","PPO20_052","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",742863,60
+"15","PPO20_053","PPO.PO.DLevesque.2019","MiFishU",TRUE,"Not artefactual",514665,60

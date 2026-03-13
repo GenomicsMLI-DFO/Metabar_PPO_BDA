@@ -1,0 +1,12 @@
+"","sample_id","project","locus","seqdepth_ok","artefact_type","nb_reads_postmetabaR","nb_motus_postmetabaR"
+"36","PPO20_081","PPO.Kildir.DLevesque.2020","MiFishU",FALSE,"Low sequencing depth",33,2
+"38","PPO20_084","PPO.Kildir.DLevesque.2020","MiFishU",TRUE,"Not artefactual",769098,21
+"42","PPO20_089","PPO.Kildir.DLevesque.2020","MiFishU",TRUE,"Not artefactual",813210,57
+"43","PPO20_090","PPO.Kildir.DLevesque.2020","MiFishU",TRUE,"Not artefactual",65343,6
+"44","PPO20_091","PPO.Kildir.DLevesque.2020","MiFishU",TRUE,"Not artefactual",584849,15
+"45","PPO20_092","PPO.Kildir.DLevesque.2020","MiFishU",TRUE,"Not artefactual",542687,19
+"46","PPO20_094","PPO.Kildir.DLevesque.2020","MiFishU",FALSE,"Low sequencing depth",7,1
+"47","PPO20_095","PPO.Kildir.DLevesque.2020","MiFishU",FALSE,"Low sequencing depth",40,2
+"48","PPO20_096","PPO.Kildir.DLevesque.2020","MiFishU",FALSE,"Low sequencing depth",47,2
+"52","PPO20_101","PPO.Kildir.DLevesque.2020","MiFishU",TRUE,"Not artefactual",286875,11
+"54","PPO20_103","PPO.Kildir.DLevesque.2020","MiFishU",FALSE,"Low sequencing depth",406,2

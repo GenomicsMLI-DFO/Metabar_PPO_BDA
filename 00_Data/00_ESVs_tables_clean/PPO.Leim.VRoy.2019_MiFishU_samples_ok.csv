@@ -1,0 +1,22 @@
+"","sample_id","project","locus","seqdepth_ok","artefact_type","nb_reads_postmetabaR","nb_motus_postmetabaR"
+"401","PPO20_002","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",324916,12
+"402","PPO20_003","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",390754,19
+"403","PPO20_004","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",750627,35
+"404","PPO20_005","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",796473,52
+"405","PPO20_006","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",579256,28
+"406","PPO20_008","PPO.Leim.VRoy.2019","MiFishU",FALSE,"Low sequencing depth",16,1
+"407","PPO20_009","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",563331,17
+"408","PPO20_010","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",68663,4
+"409","PPO20_011","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",753148,38
+"411","PPO20_014","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",66341,13
+"412","PPO20_015","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",15450,10
+"413","PPO20_016","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",639699,24
+"414","PPO20_017","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",863546,39
+"415","PPO20_018","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",562768,24
+"416","PPO20_020","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",91326,7
+"417","PPO20_021","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",821382,53
+"418","PPO20_022","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",635795,22
+"425","PPO20_029","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",6376,3
+"427","PPO20_031","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",609642,68
+"428","PPO20_032","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",582645,50
+"429","PPO20_033","PPO.Leim.VRoy.2019","MiFishU",TRUE,"Not artefactual",674405,24

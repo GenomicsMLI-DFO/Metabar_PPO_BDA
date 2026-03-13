@@ -1,0 +1,86 @@
+"","sample_id","project","locus","seqdepth_ok","artefact_type","nb_reads_postmetabaR","nb_motus_postmetabaR"
+"1","BDA20_001","BDA","COI",TRUE,"Not artefactual",1501,32
+"2","BDA20_002","BDA","COI",TRUE,"Not artefactual",513,20
+"3","BDA20_003","BDA","COI",TRUE,"Not artefactual",296,17
+"4","BDA20_004","BDA","COI",TRUE,"Not artefactual",122,9
+"5","BDA20_005","BDA","COI",TRUE,"Not artefactual",310,17
+"6","BDA20_006","BDA","COI",TRUE,"Not artefactual",2509,11
+"7","BDA20_007","BDA","COI",TRUE,"Not artefactual",311,22
+"8","BDA20_008","BDA","COI",TRUE,"Not artefactual",116,9
+"9","BDA20_009","BDA","COI",TRUE,"Not artefactual",1750,5
+"10","BDA20_010","BDA","COI",FALSE,"Low sequencing depth",36,6
+"11","BDA20_011","BDA","COI",TRUE,"Not artefactual",524,22
+"12","BDA20_012","BDA","COI",TRUE,"Not artefactual",301,10
+"13","BDA20_013","BDA","COI",TRUE,"Not artefactual",375,16
+"14","BDA20_014","BDA","COI",TRUE,"Not artefactual",236,11
+"15","BDA20_015","BDA","COI",TRUE,"Not artefactual",1430,4
+"16","BDA20_016","BDA","COI",TRUE,"Not artefactual",1285,1
+"17","BDA20_017","BDA","COI",TRUE,"Not artefactual",146,10
+"19","BDA20_019","BDA","COI",TRUE,"Not artefactual",351,16
+"20","BDA20_020","BDA","COI",FALSE,"Low sequencing depth",63,8
+"21","BDA20_021","BDA","COI",TRUE,"Not artefactual",254,5
+"22","BDA20_022","BDA","COI",TRUE,"Not artefactual",367,4
+"23","BDA20_023","BDA","COI",TRUE,"Not artefactual",367,23
+"24","BDA20_024","BDA","COI",FALSE,"Low sequencing depth",39,4
+"25","BDA20_025","BDA","COI",TRUE,"Not artefactual",183,7
+"26","BDA20_026","BDA","COI",FALSE,"Low sequencing depth",11,1
+"27","BDA20_027","BDA","COI",FALSE,"Low sequencing depth",90,5
+"28","BDA20_028","BDA","COI",FALSE,"Low sequencing depth",15,2
+"29","BDA20_029","BDA","COI",TRUE,"Not artefactual",129,5
+"30","BDA20_030","BDA","COI",FALSE,"Low sequencing depth",64,5
+"31","BDA20_031","BDA","COI",FALSE,"Low sequencing depth",49,4
+"32","BDA20_032","BDA","COI",FALSE,"Low sequencing depth",22,1
+"33","BDA20_033","BDA","COI",FALSE,"Low sequencing depth",39,5
+"34","BDA20_034","BDA","COI",FALSE,"Low sequencing depth",99,8
+"35","BDA20_035","BDA","COI",TRUE,"Not artefactual",147,9
+"36","BDA20_036","BDA","COI",TRUE,"Not artefactual",244,10
+"37","BDA20_037","BDA","COI",TRUE,"Not artefactual",124,8
+"39","BDA20_039","BDA","COI",TRUE,"Not artefactual",137,11
+"40","BDA20_040","BDA","COI",FALSE,"Low sequencing depth",17,1
+"41","BDA20_041","BDA","COI",FALSE,"Low sequencing depth",35,3
+"42","BDA20_042","BDA","COI",TRUE,"Not artefactual",139,9
+"43","BDA20_043","BDA","COI",FALSE,"Low sequencing depth",37,4
+"44","BDA20_044","BDA","COI",TRUE,"Not artefactual",343,8
+"45","BDA20_045","BDA","COI",TRUE,"Not artefactual",170,10
+"46","BDA20_046","BDA","COI",TRUE,"Not artefactual",350,21
+"47","BDA20_047","BDA","COI",FALSE,"Low sequencing depth",32,4
+"48","BDA20_048","BDA","COI",TRUE,"Not artefactual",168,13
+"49","BDA20_049","BDA","COI",FALSE,"Low sequencing depth",19,2
+"50","BDA20_050","BDA","COI",TRUE,"Not artefactual",101,8
+"51","BDA20_051","BDA","COI",FALSE,"Low sequencing depth",64,7
+"52","BDA20_052","BDA","COI",TRUE,"Not artefactual",226,14
+"53","BDA20_053","BDA","COI",FALSE,"Low sequencing depth",56,5
+"54","BDA20_054","BDA","COI",TRUE,"Not artefactual",104,11
+"55","BDA20_055","BDA","COI",FALSE,"Low sequencing depth",84,10
+"56","BDA20_056","BDA","COI",FALSE,"Low sequencing depth",57,6
+"57","BDA20_057","BDA","COI",FALSE,"Low sequencing depth",29,3
+"58","BDA20_058","BDA","COI",FALSE,"Low sequencing depth",60,8
+"59","BDA20_059","BDA","COI",TRUE,"Not artefactual",238,12
+"60","BDA20_060","BDA","COI",TRUE,"Not artefactual",403,20
+"61","BDA20_061","BDA","COI",TRUE,"Not artefactual",864,34
+"62","BDA20_062","BDA","COI",TRUE,"Not artefactual",298,16
+"64","BDA20_064","BDA","COI",TRUE,"Not artefactual",249,14
+"65","BDA20_065","BDA","COI",TRUE,"Not artefactual",383,26
+"66","BDA20_066","BDA","COI",FALSE,"Low sequencing depth",55,6
+"67","BDA20_067","BDA","COI",TRUE,"Not artefactual",104,7
+"68","BDA20_068","BDA","COI",TRUE,"Not artefactual",655,37
+"69","BDA20_069","BDA","COI",TRUE,"Not artefactual",440,23
+"70","BDA20_070","BDA","COI",TRUE,"Not artefactual",207,12
+"71","BDA20_071","BDA","COI",FALSE,"Low sequencing depth",32,4
+"72","BDA20_072","BDA","COI",FALSE,"Low sequencing depth",61,9
+"73","BDA20_073","BDA","COI",TRUE,"Not artefactual",129,11
+"74","BDA20_074","BDA","COI",TRUE,"Not artefactual",162,12
+"75","BDA20_075","BDA","COI",TRUE,"Not artefactual",225,15
+"76","BDA20_076","BDA","COI",TRUE,"Not artefactual",135,10
+"77","BDA20_077","BDA","COI",TRUE,"Not artefactual",340,22
+"78","BDA20_078","BDA","COI",TRUE,"Not artefactual",177,14
+"80","BDA20_080","BDA","COI",TRUE,"Not artefactual",168,13
+"81","BDA20_081","BDA","COI",FALSE,"Low sequencing depth",19,1
+"82","BDA20_082","BDA","COI",TRUE,"Not artefactual",580,29
+"83","BDA20_083","BDA","COI",TRUE,"Not artefactual",245,16
+"84","BDA20_084","BDA","COI",TRUE,"Not artefactual",205,17
+"85","BDA20_085","BDA","COI",FALSE,"Low sequencing depth",67,8
+"86","BDA20_086","BDA","COI",FALSE,"Low sequencing depth",87,7
+"87","BDA20_087","BDA","COI",TRUE,"Not artefactual",483,15
+"88","BDA20_088","BDA","COI",TRUE,"Not artefactual",580,25
+"89","BDA20_089","BDA","COI",TRUE,"Not artefactual",289,17

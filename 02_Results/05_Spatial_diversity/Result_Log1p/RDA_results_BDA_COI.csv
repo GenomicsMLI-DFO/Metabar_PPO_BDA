@@ -1,0 +1,7 @@
+"","Df","Variance","F","Pr..F.","R2","adj.R2","Transfo","Project_Locus"
+"Longitude",1,7999802.48662567,1.19422119936637,0.293,"0.015","pRDA","Log1p","BDA_COI"
+"Latitude",1,976839.150403082,0.145823852992957,0.705,"0.002","pRDA","Log1p","BDA_COI"
+"Depth_m",1,283320.778549731,0.0422945042119145,0.861,"0.001","pRDA","Log1p","BDA_COI"
+"Residual",78,522503363.939508,NA,NA,"0.983","pRDA","Log1p","BDA_COI"
+"Model",3,16383589.5960001,0.815254712016204,0.477,"0.03","-0.007","Log1p - all model","BDA_COI"
+"Residual1",78,522503363.939508,NA,NA,"NA","NA","Log1p - all model","BDA_COI"

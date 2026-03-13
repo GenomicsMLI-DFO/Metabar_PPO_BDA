@@ -1,0 +1,7 @@
+"","Df","Variance","F","Pr..F.","R2","adj.R2","model","transfo"
+"Model",3,3606.40630407478,5.70265239519644,0.002,"0.23085181904404","0.190370335835832","Complete","Hellinger-Mahalanobis"
+"Residual",57,12015.7630219824,NA,NA,"NA","NA","Complete","Hellinger-Mahalanobis"
+"Longitude",1,765.44819308118,3.63110914602815,0.048,"0.0489975602590316","0.0367279991616849","pRDA","Hellinger-Mahalanobis"
+"Latitude",1,105.197954875954,0.499034761001808,0.512,"0.00673387948732408","-0.00699304991249505","pRDA","Hellinger-Mahalanobis"
+"Depth_m",1,735.8991353565,3.49093525218343,0.059,"0.0471060783750154","0.0347712937644269","pRDA","Hellinger-Mahalanobis"
+"Residual1",57,12015.7630219824,NA,NA,"NA","NA","pRDA","Hellinger-Mahalanobis"

@@ -1,0 +1,7 @@
+"","Df","Variance","F","Pr..F.","R2","adj.R2","Transfo","Project_Locus"
+"Longitude",1,80481.9618558267,5.40043083965949,0.006,"0.081","pRDA","hell","BDA_MiFishU"
+"Latitude",1,19337.4764580515,1.2975665828366,0.261,"0.02","pRDA","hell","BDA_MiFishU"
+"Depth_m",1,39040.7536226433,2.61967880759367,0.068,"0.04","pRDA","hell","BDA_MiFishU"
+"Residual",57,849464.044996708,NA,NA,"0.859","pRDA","hell","BDA_MiFishU"
+"Model",3,235257.232616688,5.26200896441048,0.001,"0.217","0.176","hell - all model","BDA_MiFishU"
+"Residual1",57,849464.044996708,NA,NA,"NA","NA","hell - all model","BDA_MiFishU"
